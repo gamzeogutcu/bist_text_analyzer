@@ -2,7 +2,7 @@ streamlit~=1.50.0
 pandas~=2.2.3
 spacy
 pykap
-
+plotly
 altair~=5.5.0
 torch~=2.9.0
 stanza~=1.11.0
